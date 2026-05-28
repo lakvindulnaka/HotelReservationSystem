@@ -1,5 +1,7 @@
 name = "hotel-reservation-system"
+main = "src/worker.js"
 compatibility_date = "2026-05-28"
 
 [assets]
 directory = "./docs"
+binding = "ASSETS"
